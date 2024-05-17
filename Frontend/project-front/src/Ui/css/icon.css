@@ -1,0 +1,11 @@
+.custom-icon {
+    font-size: 24px; /* Set the size of the icon */
+    color: #333; /* Set the color of the icon */
+    margin: 0 10px; /* Add margin around the icon */
+  }
+  
+  .custom-icon:hover {
+    color: #ff0000; /* Change the color when hovered */
+    transform: scale(1.2); /* Scale the icon when hovered */
+    transition: color 0.3s, transform 0.3s; /* Add transition effects */
+  }
